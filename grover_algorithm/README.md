@@ -3,6 +3,6 @@ Este enlace contendra toda información relacioanda con el algoritmo de Grover, 
 
 <ul>
   <li>
-    <a href="grover.pdf"> Infografía </a>
+    <a href="grover.pdf" target="_blank"> Infografía </a>
   </li>
 </ul>
